@@ -22,22 +22,22 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['923474187615'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['923474187615'] //another owner number
-global.premium = ['923474187615'] //premium number
-global.pengguna = 'Dark Asif' //username
-global.botnma = 'MOON-KING' //bot name
-global.ownernma = 'ASIF KHAN' //owner name
-global.packname = 'ASIF KHAN🙂' //sticker package name
-global.author = 'MOON KING' //sticker author name
+global.owner = ['14318136969'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['14318136969'] //another owner number
+global.premium = ['14318136969'] //premium number
+global.pengguna = 'Sam Kira Kun' //username
+global.botnma = 'Sam Bot' //bot name
+global.ownernma = 'Sam Kira Kun' //owner name
+global.packname = 'Sam Bot' //sticker package name
+global.author = '+14318136969' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
-global.sp = '🧡' //design
+global.sp = '┃➥' //design
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner',
+    botAdmin: 'Sam Bot Must Be Admin First!',
+    owner: 'This Feature Is Only For Owner-Sam',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
@@ -46,7 +46,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 10 //free user limit
+    free: 30 //free user limit
 }
 global.thumb = fs.readFileSync('./DarkMedia/moonkingpic.jpg')
 
